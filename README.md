@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React JS, Node JS**
 
-- 👯 I have work on [Code Collaborate]
+- 👯 I have work on **Code Collaborate**
 
 - 💬 Ask me about **Node.js, React, MongoDB Etc.**
 
